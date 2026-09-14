@@ -5,7 +5,7 @@
 
 FoodTalk ("we," "us," or "the app") is a voice-first macro and nutrition tracker. This policy explains what we collect, why, how it's used, and the choices you have. We keep it plain because privacy shouldn't require a law degree.
 
-> **Contact:** cpogue208@gmail.com — replace before publishing. This is required by the App Store.
+> **Contact:** cpogue208@gmail.com
 
 ---
 
