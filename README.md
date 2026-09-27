@@ -1,7 +1,7 @@
 # FoodTalk — Privacy Policy
 
 **Effective date:** August 12, 2026
-**Last updated:** August 12, 2026
+**Last updated:** September 27, 2026
 
 FoodTalk ("we," "us," or "the app") is a voice-first macro and nutrition tracker. This policy explains what we collect, why, how it's used, and the choices you have. We keep it plain because privacy shouldn't require a law degree.
 
@@ -60,6 +60,7 @@ Each provider processes data only to deliver its part of the service.
 
 ## Data storage, security, and retention
 - Your data is stored in secure, access-controlled databases. Each account can only access its own data (enforced at the database level).
+- **Operator access.** Colin Pogue, the developer of FoodTalk, can access stored data directly — including your food log — in order to provide support, investigate bugs, and improve the accuracy of the app's food recognition. This access is used only for those purposes. Your data is never sold, never shared with third parties for their own use, and never used for advertising.
 - We retain your data for as long as your account is active.
 - **You can delete your account and all associated data at any time** from within the app (Settings). When you do, your account and your stored nutrition data are permanently removed. Deletion requests can also be made by emailing us.
 
